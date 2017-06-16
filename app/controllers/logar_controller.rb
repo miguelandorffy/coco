@@ -1,0 +1,7 @@
+class LogarController < ApplicationController
+
+
+
+
+
+end
