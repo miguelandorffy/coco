@@ -1,6 +1,6 @@
 class LogarController < ApplicationController
 
-
+  kdjashkdah
 
 
 
